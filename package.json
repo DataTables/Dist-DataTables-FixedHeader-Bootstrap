@@ -1,0 +1,29 @@
+{
+    "name": "datatables.net-fixedheader-bs",
+    "version": "3.0.0",
+    "description": "FixedHeader for DataTables with styling for [Bootstrap](http://getbootstrap.com/)",
+    "files": [
+        "css/fixedHeader.bootstrap.css"
+    ],
+    "main": "./js/fixedHeader.bootstrap.js",
+    "keywords": [
+        "fixed headers",
+        "sticky",
+        "DataTables",
+        "jQuery",
+        "table",
+        "Bootstrap"
+    ],
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "dependencies": {
+        "jquery": ">=1.7",
+        "datatables.net-bs": ">=1.10.9",
+        "datatables.net-fixedheader": ">=3.0.0"
+    }
+}
