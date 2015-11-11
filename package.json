@@ -5,7 +5,6 @@
     "files": [
         "css/fixedHeader.bootstrap.css"
     ],
-    "main": "./js/fixedHeader.bootstrap.js",
     "keywords": [
         "fixed headers",
         "sticky",
