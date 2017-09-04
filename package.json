@@ -3,7 +3,7 @@
     "version": "3.1.2",
     "description": "FixedHeader for DataTables with styling for [Bootstrap 3](http://getbootstrap.com/)",
     "files": [
-        "css/fixedHeader.bootstrap.css"
+        "css/**/*.css"
     ],
     "style": "css/fixedHeader.bootstrap.css",
     "keywords": [
