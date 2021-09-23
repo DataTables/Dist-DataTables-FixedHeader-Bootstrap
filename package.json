@@ -4,15 +4,15 @@
     "main": "js/fixedHeader.bootstrap.js",
     "style": "css/fixedHeader.bootstrap.css",
     "types": "./types/fixedHeader.bootstrap.d.ts",
-    "version": "3.1.9",
+    "version": "3.2.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "FixedHeader",
- "Fixed Headers",
- "Sticky",
+        "Fixed Headers",
+        "Sticky",
         "Bootstrap",
         "Datatables",
         "jQuery",
