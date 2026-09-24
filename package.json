@@ -39,9 +39,10 @@
     "exports": {
         ".": {
             "types": "./types/fixedHeader.bootstrap.d.ts",
+            "style": "./css/fixedHeader.bootstrap.css",
             "import": "./js/fixedHeader.bootstrap.mjs",
-            "default": "./js/fixedHeader.bootstrap.mjs",
-            "require": "./js/fixedHeader.bootstrap.js"
+            "require": "./js/fixedHeader.bootstrap.js",
+            "default": "./js/fixedHeader.bootstrap.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
